@@ -1,6 +1,6 @@
 # babyGPT-v1
 
-babyGPT-v1 is a small, experimental language model with 19 million parameters. It's inspired by Andrej Karpathy's minGPT and nanoGPT projects.  It's designed to be a starting point for understanding and experimenting with the core concepts of large language models, but at a scale that's easier to manage and train.
+babyGPT-v1 is a small, experimental language model with 19 million parameters. It's inspired by Andrej [Karpathy](https://github.com/karpathy/)'s minGPT and nanoGPT projects.  It's designed to be a starting point for understanding and experimenting with the core concepts of large language models, but at a scale that's easier to manage and train.
 
 ## Code 
 [babyGPT-v1](https://github.com/imbikramsaha/babyGPT/blob/main/babygpt_v1.ipynb)
